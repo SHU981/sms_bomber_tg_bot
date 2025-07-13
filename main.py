@@ -10,7 +10,7 @@ import parser_https
 import sms_bomber_keyboard as kb
 from users_agent_list import get_agent
 
-TOKEN = '5629678144:AAGcADad3E4a-ry7JagBKFBripJWrxCXmL8'
+TOKEN = '8008890513:AAFzrZBPOjwooPJv9kW1cFUxZaCPzzHPP_c'
 
 THREADS_LIMIT = 200
 
